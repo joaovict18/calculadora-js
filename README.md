@@ -1,1 +1,1 @@
-# calculadora-js
+## Uma simples calculadora feita inteiramente com JavaScript!
